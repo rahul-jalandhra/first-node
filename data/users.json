@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "name": "John Doe",
+        "email": "john@example.com",
+        "age": 30,
+        "phone": "+1-555-123-4567",
+        "password": "password123"
+    },
+    {
+        "id": 2,
+        "name": "Jane Smith",
+        "email": "jane@example.com",
+        "age": 28,
+        "phone": "+1-555-987-6543",
+        "password": "password456"
+    },
+    {
+        "id": 3,
+        "name": "Bob Johnson",
+        "email": "bob@example.com",
+        "age": 35,
+        "phone": "+1-555-246-8135",
+        "password": "password789"
+    },
+    {
+        "id": 4,
+        "name": "Alice Brown",
+        "email": "alice@example.com",
+        "age": 32,
+        "phone": "+1-555-369-2580",
+        "password": "passwordabc"
+    },
+    {
+        "id": 5,
+        "name": "Charlie Wilson",
+        "email": "charlie@example.com",
+        "age": 27,
+        "phone": "+1-555-147-2589",
+        "password": "passworddef"
+    }
+]
